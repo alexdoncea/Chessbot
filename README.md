@@ -1,2 +1,2 @@
 # Chessbot
-Proiect Proiectarea Algoritmilor - Bot pentru 3-Check Chess
+Proiect Proiectarea Algoritmilor - Bot minimal pentru 3-Check Chess
